@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  m_GroupName: Resources
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5a6dc517937c3c94793b3bb7da9247ad
+  m_SerializeEntries:
+  - m_GUID: 0e0716737ca28b94faf23e0b96d3806f
+    m_Address: Sofa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - resources
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fbd4fb9fab9df5445a9b19623c9fda00
+    m_Address: Main
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - resources
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 210708ec165ed5c4595699522e6c739f
+    m_Address: Doctor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - resources
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9afda1dba2fe9e447a0fd4b849084444
+    m_Address: Cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - resources
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 96457b669f6ba6448ac99b8a6c0916de
+    m_Address: commands
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - commands
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b5bb525768b20fa4faac7eb0551bdb1d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 90dbe0935a66341469400a109c525a91, type: 2}
+    - {fileID: 11400000, guid: f526238821b6d344583fc2bfa540033e, type: 2}

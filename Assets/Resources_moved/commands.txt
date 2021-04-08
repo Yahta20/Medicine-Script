@@ -1,0 +1,3 @@
+create_ob;Doctor
+move;Doctor;1,2,5
+create_ob;Main
